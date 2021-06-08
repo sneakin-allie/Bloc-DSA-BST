@@ -1,1 +1,1 @@
-Practicing binary search trees
+Binary search trees notes and practice

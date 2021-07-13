@@ -1,1 +1,1 @@
-Binary search trees notes and practice
+Notes and practice on Binary Search Trees for Bloc
